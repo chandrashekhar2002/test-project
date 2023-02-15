@@ -3,6 +3,7 @@
 <head>
 	<title>Storing the data of students</title>
 </head>
+// mahesh
 <body>
 	<center>
 		<h1>Storing Form data in Database</h1>
